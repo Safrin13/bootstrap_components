@@ -1,0 +1,33 @@
+body{
+	background-color: #968C98;
+}
+h3{
+	text-transform: capitalize;
+	color: #fff;
+	margin-top: 10px;
+}
+.alerts, .badges, .button_example{
+	margin: 20px 0;
+}
+.link{
+	color: white;
+}
+.cards{
+	width: 80%;
+    margin:0 auto;
+	overflow: hidden;
+}
+.custom_card{
+	width: 33%;
+	float: left;
+	margin-left: 107px;
+	margin-bottom: 15px;
+}
+.custom_card:first-child{
+	margin-left: auto;
+}
+.slider{
+	min-height: 400px;
+	width: 80%;
+	margin: 0 auto;
+}
